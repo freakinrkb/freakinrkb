@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN STACK<br>👯 I’m looking to collaborate on any OPENSOURCE<br>🤝 I’m looking for help with PROJECTS<br>🌱 I’m currently learning BACKEND DEV<br>💬 JOIN ME ON LINKEDIN --> INSTA --> WHATSAPP --> INREAL<br>⚡ Fun fact : STILL JOBLESS
+🔭 I’m currently working on MERN STACK DEV<br>👯 I’m looking to collaborate on any OPENSOURCE PROJECTS<br>🤝 I’m looking for Internships<br>🌱 I’m currently learning REACT, JS<br>💬 JOIN ME ON LINKEDIN --> INSTA --> WHATSAPP --> INREAL<br>⚡ Fun fact : STILL JOBLESS
 
 
 ## 🌐 Socials:
